@@ -1,21 +1,8 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
+// import data from "./data/data.js";
 import Grouped from "../src/components/Grouped";
 
 const App = () => {
-  const [posts, setPosts] = useState();
-
-  useEffect(() => {
-    fetch("https://opentdb.com/api.php?amount=1&category=15")
-      .then((response) => response.json())
-      .then((data) => {
-        console.log(data);
-        setPosts(data);
-      })
-      .catch((err) => {
-        console.log(err.message);
-      });
-  }, []);
-
   return (
     <div
       className="ui form"
@@ -30,10 +17,7 @@ const App = () => {
         padding: "10px",
       }}
     >
-      <Grouped posts={posts} />
-      <button className="ui primary button" posts={posts}>
-        Submit
-      </button>
+      <Grouped />
     </div>
   );
 };
