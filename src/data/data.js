@@ -3,8 +3,7 @@ const data = [
     category: "Entertainment: Video Games",
     type: "multiple",
     difficulty: "medium",
-    question:
-      "In the &quot;Halo&quot; franchise, in what country is New Mombasa?",
+    question: "In the 'Halo' franchise, in what country is New Mombasa?",
     correct_answer: "Kenya",
     incorrect_answers: ["India", "Turkey", "Slovakia"],
   },
@@ -37,7 +36,7 @@ const data = [
     category: "Entertainment: Video Games",
     type: "multiple",
     difficulty: "medium",
-    question: "Which character is from &quot;Splatoon&quot;?",
+    question: "Which character is from 'Splatoon'?",
     correct_answer: "Marie",
     incorrect_answers: ["Cyrus", "Palutena", "Shulk"],
   },
@@ -71,21 +70,20 @@ const data = [
     category: "Entertainment: Video Games",
     type: "multiple",
     difficulty: "medium",
-    question:
-      "What is the final game of the &quot;Zero Escape&quot; series called?",
+    question: "What is the final game of the 'Zero Escape' series called?",
     correct_answer: "Zero Escape Zero Time Dilemma ",
     incorrect_answers: [
       "Nine Hours, Nine Persons, Nine Doors ",
-      "Zero Escape Virtue&#039;s Last Reward",
-      "The Nonary Game: Sigma&#039;s Last Life",
+      "Zero Escape Virtue's Last Reward",
+      "The Nonary Game: Sigma's Last Life",
     ],
   },
   {
     category: "Entertainment: Video Games",
     type: "multiple",
     difficulty: "medium",
-    question: "In &quot;Clash Royale&quot; what is Arena 4 called?",
-    correct_answer: "P.E.K.K.A&#039;s Playhouse",
+    question: "In 'Clash Royale' what is Arena 4 called?",
+    correct_answer: "P.E.K.K.A's Playhouse",
     incorrect_answers: ["Barbarian Bowl", "Spell Valley", "Royal Arena"],
   },
   {
@@ -120,7 +118,7 @@ const data = [
     type: "multiple",
     difficulty: "hard",
     question:
-      "In &quot;Sonic the Hedgehog 3&quot; for the Sega Genesis, what is the color of the second Chaos Emerald you can get from Special Stages?",
+      "In 'Sonic the Hedgehog 3' for the Sega Genesis, what is the color of the second Chaos Emerald you can get from Special Stages?",
     correct_answer: "Orange",
     incorrect_answers: ["Blue", "Green", "Magenta"],
   },
@@ -141,7 +139,7 @@ const data = [
     category: "Entertainment: Video Games",
     type: "multiple",
     difficulty: "easy",
-    question: "In what year was the game &quot;Fallout&quot; released?",
+    question: "In what year was the game 'Fallout' released?",
     correct_answer: "1997",
     incorrect_answers: ["1998", "1999", "1996"],
   },
@@ -151,12 +149,8 @@ const data = [
     difficulty: "medium",
     question:
       "What two characters from the game Undertale are never in a relationship or not related?",
-    correct_answer: "Frisk &amp; Chara",
-    incorrect_answers: [
-      "Sans &amp; Papyrus",
-      "Toriel &amp; Asgore",
-      "Alphys &amp; Undyne",
-    ],
+    correct_answer: "Frisk & Chara",
+    incorrect_answers: ["Sans & Papyrus", "Toriel & Asgore", "Alphys & Undyne"],
   },
   {
     category: "Entertainment: Video Games",
@@ -175,7 +169,7 @@ const data = [
     type: "multiple",
     difficulty: "hard",
     question:
-      "How long was the World Record Speed Run of Valve Software&#039;s &quot;Half-Life&quot; that was done in 2014.",
+      "How long was the World Record Speed Run of Valve Software's 'Half-Life' that was done in 2014.",
     correct_answer: "20 Minutes, 41 Seconds",
     incorrect_answers: [
       "45 Minutes, 32 Seconds",
@@ -217,9 +211,9 @@ const data = [
     question: "The name of the Metroid series comes from what?",
     correct_answer: "An enemy in the game",
     incorrect_answers: [
-      "The final boss&#039;s name",
-      "The main character&#039;s name",
-      "A spaceship&#039;s name",
+      "The final boss's name",
+      "The main character's name",
+      "A spaceship's name",
     ],
   },
   {
@@ -229,13 +223,13 @@ const data = [
     question:
       "Which franchise had a special event hosted in the popular MMORPG Final Fantasy XIV: A Realm Reborn?",
     correct_answer: "Yo-kai Watch",
-    incorrect_answers: ["Pok&eacute;mon", "Yu-gi-oh", "Buddyfight"],
+    incorrect_answers: ["Pokemon", "Yu-gi-oh", "Buddyfight"],
   },
   {
     category: "Entertainment: Video Games",
     type: "multiple",
     difficulty: "hard",
-    question: "Which of these Pok&eacute;mon cannot learn Surf?",
+    question: "Which of these Pokemon cannot learn Surf?",
     correct_answer: "Arbok",
     incorrect_answers: ["Linoone", "Tauros", "Nidoking"],
   },
@@ -244,7 +238,7 @@ const data = [
     type: "multiple",
     difficulty: "medium",
     question:
-      "In the game &quot;Terraria&quot;, which of these bosses are pre-hardmode bosses?",
+      "In the game 'Terraria', which of these bosses are pre-hardmode bosses?",
     correct_answer: "Eye of Cthulhu",
     incorrect_answers: ["Plantera", "Skeletron Prime", "The Destroyer"],
   },
@@ -252,8 +246,7 @@ const data = [
     category: "Entertainment: Video Games",
     type: "multiple",
     difficulty: "hard",
-    question:
-      "In TF2 Lore, what are the names of the Heavy&#039;s younger sisters?",
+    question: "In TF2 Lore, what are the names of the Heavy's younger sisters?",
     correct_answer: "Yana and Bronislava",
     incorrect_answers: [
       "Gaba and Anna",
@@ -265,10 +258,10 @@ const data = [
     category: "Entertainment: Video Games",
     type: "multiple",
     difficulty: "medium",
-    question: "Which one of these games wasn&#039;t released in 2016?",
+    question: "Which one of these games wasn't released in 2016?",
     correct_answer: "Metal Gear Solid V",
     incorrect_answers: [
-      "Tom Clancy&#039;s The Division",
+      "Tom Clancy's The Division",
       "Killing Floor 2",
       "Hitman",
     ],
@@ -294,7 +287,7 @@ const data = [
     type: "multiple",
     difficulty: "medium",
     question:
-      "In &quot;Fallout 4&quot;, what is the name of the dog you find at Red Rocket truck stop?",
+      "In 'Fallout 4', what is the name of the dog you find at Red Rocket truck stop?",
     correct_answer: "Dogmeat",
     incorrect_answers: ["Sparky", "Quazar", "Chop"],
   },
@@ -328,7 +321,7 @@ const data = [
       "Who is the main character in most of the games of the YS series?",
     correct_answer: "Adol Christin ",
     incorrect_answers: [
-      "Character doesn&#039;t have a name",
+      "Character doesn't have a name",
       "Estelle Bright",
       "Roger Wilco",
     ],
@@ -338,7 +331,7 @@ const data = [
     type: "multiple",
     difficulty: "easy",
     question:
-      "What household item make the characters of &quot;Steins; Gate&quot; travel through time?",
+      "What household item make the characters of 'Steins Gate' travel through time?",
     correct_answer: "Microwave",
     incorrect_answers: ["Computer", "Refrigerator", "Televison"],
   },
@@ -347,7 +340,7 @@ const data = [
     type: "multiple",
     difficulty: "medium",
     question:
-      "In the game Pok&eacute;mon Conquest, which warlord is able to bond with Zekrom and a shiny Rayquazza?",
+      "In the game Pokemon Conquest, which warlord is able to bond with Zekrom and a shiny Rayquazza?",
     correct_answer: "Nobunaga",
     incorrect_answers: ["The Player", "Oichi", "Hideyoshi"],
   },
@@ -356,7 +349,7 @@ const data = [
     type: "multiple",
     difficulty: "medium",
     question:
-      "How much did the indie game &quot;Cave Story&quot; cost when it was first released in 2004?",
+      "How much did the indie game 'Cave Story' cost when it was first released in 2004?",
     correct_answer: "$0 USD",
     incorrect_answers: ["$5 USD", "$10 USD", "$15 USD"],
   },
@@ -364,8 +357,7 @@ const data = [
     category: "Entertainment: Video Games",
     type: "multiple",
     difficulty: "medium",
-    question:
-      "Which of these is not a DLC vehicle in &quot;Mario Kart 8&quot;?",
+    question: "Which of these is not a DLC vehicle in 'Mario Kart 8'?",
     correct_answer: "Wild Wiggler",
     incorrect_answers: ["Bone Rattler", "B Dasher", "300 SL Roadster"],
   },
@@ -374,7 +366,7 @@ const data = [
     type: "multiple",
     difficulty: "medium",
     question:
-      "In &quot;Call Of Duty: Zombies&quot;, what does the game traditionally reward you for completing a boss round?",
+      "In 'Call Of Duty: Zombies', what does the game traditionally reward you for completing a boss round?",
     correct_answer: "Max Ammo",
     incorrect_answers: [
       "A Pack-A-Punched gun",
@@ -404,7 +396,7 @@ const data = [
     type: "multiple",
     difficulty: "hard",
     question:
-      "In &quot;The Witness&quot;, how many lasers must be activated to get into the mountain area?",
+      "In 'The Witness', how many lasers must be activated to get into the mountain area?",
     correct_answer: "7",
     incorrect_answers: ["8", "5", "12"],
   },
@@ -422,7 +414,7 @@ const data = [
     difficulty: "easy",
     question:
       "Which of the following Zelda games did not feature Ganon as a final boss?",
-    correct_answer: "Majora&#039;s Mask",
+    correct_answer: "Majora's Mask",
     incorrect_answers: [
       "Ocarina of Time",
       "Skyward Sword",
@@ -442,7 +434,7 @@ const data = [
     category: "Entertainment: Video Games",
     type: "multiple",
     difficulty: "medium",
-    question: "What is the AK-47&#039;s name in Counter Strike: Source?",
+    question: "What is the AK-47's name in Counter Strike: Source?",
     correct_answer: "CV-47",
     incorrect_answers: ["AK-74", "AK", "CZ-75"],
   },
@@ -459,7 +451,7 @@ const data = [
     type: "multiple",
     difficulty: "easy",
     question:
-      "In the survival horror game, &quot;Cry of Fear,&quot; what was the name of Simon&#039;s close friend/potential love interest?",
+      "In the survival horror game, 'Cry of Fear,' what was the name of Simon's close friend/potential love interest?",
     correct_answer: "Sophie",
     incorrect_answers: ["Olivia", "Jessica", "Alice"],
   },
@@ -485,7 +477,7 @@ const data = [
     type: "multiple",
     difficulty: "medium",
     question:
-      "How many sets of grandmaster witcher gear are in The Witcher 3&#039;s Blood and Wine DLC?",
+      "How many sets of grandmaster witcher gear are in The Witcher 3's Blood and Wine DLC?",
     correct_answer: "5",
     incorrect_answers: ["3", "6", "4"],
   },
@@ -494,7 +486,7 @@ const data = [
     type: "multiple",
     difficulty: "easy",
     question:
-      "What&#039;s the name of the main protagonist in the &quot;Legend of Zelda&quot; franchise?",
+      "What's the name of the main protagonist in the 'Legend of Zelda' franchise?",
     correct_answer: "Link",
     incorrect_answers: ["Mario", "Zelda", "Pit"],
   },
@@ -502,7 +494,7 @@ const data = [
     category: "Entertainment: Video Games",
     type: "multiple",
     difficulty: "medium",
-    question: "Which character is from &quot;Splatoon&quot;?",
+    question: "Which character is from 'Splatoon'?",
     correct_answer: "Marie",
     incorrect_answers: ["Cyrus", "Palutena", "Shulk"],
   },
@@ -511,7 +503,7 @@ const data = [
     type: "multiple",
     difficulty: "medium",
     question:
-      "Which of these features was added in the 1994 game &quot;Heretic&quot; that the original &quot;DOOM&quot; could not add due to limitations?",
+      "Which of these features was added in the 1994 game 'Heretic' that the original 'DOOM' could not add due to limitations?",
     correct_answer: "Looking up and down",
     incorrect_answers: [
       "Increased room sizes",
@@ -523,9 +515,9 @@ const data = [
     category: "Entertainment: Video Games",
     type: "multiple",
     difficulty: "medium",
-    question: "Who is the villain company in &quot;Stardew Valley&quot;?",
+    question: "Who is the villain company in 'Stardew Valley'?",
     correct_answer: "Joja Co ",
-    incorrect_answers: ["Ronin", "Empire", "Robotnik Industry&#039;s "],
+    incorrect_answers: ["Ronin", "Empire", "Robotnik Industry's "],
   },
   {
     category: "Entertainment: Video Games",
@@ -549,7 +541,7 @@ const data = [
     type: "multiple",
     difficulty: "easy",
     question:
-      "How many Chaos Emeralds are there in the &quot;Sonic the Hedgehog&quot; universe?",
+      "How many Chaos Emeralds are there in the 'Sonic the Hedgehog' universe?",
     correct_answer: "7",
     incorrect_answers: ["6", "8", "14"],
   },
@@ -557,7 +549,7 @@ const data = [
     category: "Entertainment: Video Games",
     type: "multiple",
     difficulty: "medium",
-    question: "Who is the main character of &quot;Metal Gear Solid 3&quot;?",
+    question: "Who is the main character of 'Metal Gear Solid 3'?",
     correct_answer: "Naked Snake",
     incorrect_answers: ["Solid Snake", "Liquid Snake", "Venom Snake"],
   },
@@ -582,7 +574,7 @@ const data = [
     type: "multiple",
     difficulty: "medium",
     question:
-      "Which musical artist was NOT featured as playable avatars in the game &quot;DJ Hero&quot;?",
+      "Which musical artist was NOT featured as playable avatars in the game 'DJ Hero'?",
     correct_answer: "Dr. Dre",
     incorrect_answers: ["DJ Shadow", "Daft Punk", "Grandmaster Flash"],
   },
@@ -604,7 +596,7 @@ const data = [
     type: "multiple",
     difficulty: "medium",
     question:
-      "When was Chapter 1 of the Source Engine mod &quot;Underhell&quot; released?",
+      "When was Chapter 1 of the Source Engine mod 'Underhell' released?",
     correct_answer: "September 1st, 2013",
     incorrect_answers: [
       "March 3rd, 2011",
@@ -624,7 +616,7 @@ const data = [
     category: "Entertainment: Video Games",
     type: "multiple",
     difficulty: "easy",
-    question: "In Pokemon Red &amp; Blue, what is the name of HM05?",
+    question: "In Pokemon Red & Blue, what is the name of HM05?",
     correct_answer: "Flash",
     incorrect_answers: ["Strength", "Cut", "Fly"],
   },
@@ -632,7 +624,7 @@ const data = [
     category: "Entertainment: Video Games",
     type: "multiple",
     difficulty: "medium",
-    question: "Which Game Development company made No Man&#039;s Sky?",
+    question: "Which Game Development company made No Man's Sky?",
     correct_answer: "Hello Games",
     incorrect_answers: ["Dovetail Games", "Valve", "Blizzard Entertainment"],
   },
@@ -641,7 +633,7 @@ const data = [
     type: "multiple",
     difficulty: "easy",
     question:
-      "In the video game &quot;Team Fortress 2&quot;, which class is able to double jump?",
+      "In the video game 'Team Fortress 2', which class is able to double jump?",
     correct_answer: "Scout",
     incorrect_answers: ["Spy", "Engineer", "Pyro"],
   },
@@ -649,8 +641,7 @@ const data = [
     category: "Entertainment: Video Games",
     type: "multiple",
     difficulty: "medium",
-    question:
-      "Which Overwatch character says the line &quot;Heroes never die!&quot;?",
+    question: "Which Overwatch character says the line 'Heroes never die!'?",
     correct_answer: "Mercy",
     incorrect_answers: ["Reaper", "Sonic", "Ana"],
   },
@@ -659,7 +650,7 @@ const data = [
     type: "multiple",
     difficulty: "hard",
     question:
-      "In the title of the game &quot;Luigi&#039;s Mansion&quot;, what is the only letter to not appear with a pair of eyes in it?",
+      "In the title of the game 'Luigi's Mansion', what is the only letter to not appear with a pair of eyes in it?",
     correct_answer: "s",
     incorrect_answers: ["n", "i", "m"],
   },
@@ -676,7 +667,7 @@ const data = [
     type: "multiple",
     difficulty: "easy",
     question:
-      "Which of the following names is the &quot;Mega Man&quot; Franchise known as in Japan?",
+      "Which of the following names is the 'Mega Man' Franchise known as in Japan?",
     correct_answer: "Rockman",
     incorrect_answers: ["Paperman", "Scissorsman", "Mega Man"],
   },
@@ -685,11 +676,11 @@ const data = [
     type: "multiple",
     difficulty: "easy",
     question:
-      "Which &quot;Fallout: New Vegas&quot; quest is NOT named after a real-life song?",
+      "Which 'Fallout: New Vegas' quest is NOT named after a real-life song?",
     correct_answer: "They Went That-a-Way",
     incorrect_answers: [
       "Come Fly With Me",
-      "Ain&#039;t That a Kick in the Head",
+      "Ain't That a Kick in the Head",
       "Ring-a-Ding Ding",
     ],
   },
@@ -698,13 +689,9 @@ const data = [
     type: "multiple",
     difficulty: "medium",
     question:
-      "The cake depicted in Valve&#039;s &quot;Portal&quot; franchise most closely resembles which real-world type of cake?",
+      "The cake depicted in Valve's 'Portal' franchise most closely resembles which real-world type of cake?",
     correct_answer: "Black Forest",
-    incorrect_answers: [
-      "Devil&#039;s Food",
-      "Molten Chocolate",
-      "German Chocolate",
-    ],
+    incorrect_answers: ["Devil's Food", "Molten Chocolate", "German Chocolate"],
   },
   {
     category: "Entertainment: Video Games",
@@ -727,7 +714,7 @@ const data = [
     type: "multiple",
     difficulty: "medium",
     question:
-      "What is the name of the common, gun-toting enemies of the &quot;Oddworld&quot; video game series?",
+      "What is the name of the common, gun-toting enemies of the 'Oddworld' video game series?",
     correct_answer: "Sligs",
     incorrect_answers: ["Scrabs", "Slogs", "Glukkons"],
   },
@@ -736,11 +723,11 @@ const data = [
     type: "multiple",
     difficulty: "hard",
     question:
-      "In &quot;Super Mario Sunshine&quot;, how do you unlock the &quot;Corona Mountain&quot; level?",
+      "In 'Super Mario Sunshine', how do you unlock the 'Corona Mountain' level?",
     correct_answer: "By clearing every 7th episode",
     incorrect_answers: [
       "By obtaining 70 Shines",
-      "By clearing every episode involving a &quot;Secret&quot;",
+      "By clearing every episode involving a 'Secret'",
       "By unlocking every nozzle F.L.U.D.D can use",
     ],
   },
@@ -757,8 +744,8 @@ const data = [
     category: "Entertainment: Video Games",
     type: "multiple",
     difficulty: "medium",
-    question: "Toby Fox&#039;s &quot;Megalovania&quot; was first used where?",
-    correct_answer: "Radiation&#039;s Earthbound Halloween Hack",
+    question: "Toby Fox's 'Megalovania' was first used where?",
+    correct_answer: "Radiation's Earthbound Halloween Hack",
     incorrect_answers: [
       "Homestuck: [S] Wake",
       "Undertale",
@@ -770,7 +757,7 @@ const data = [
     type: "multiple",
     difficulty: "hard",
     question:
-      "In the &quot;Little Lost Girl&quot; Easter Egg in Call of Duty: Black Ops II, what&#039;s the last step required for the achievement?",
+      "In the 'Little Lost Girl' Easter Egg in Call of Duty: Black Ops II, what's the last step required for the achievement?",
     correct_answer: "Raise Hell",
     incorrect_answers: [
       "Freedom",
@@ -783,7 +770,7 @@ const data = [
     type: "multiple",
     difficulty: "hard",
     question:
-      "Which monster in &quot;Monster Hunter Tri&quot; was causing earthquakes in Moga Village?",
+      "Which monster in 'Monster Hunter Tri' was causing earthquakes in Moga Village?",
     correct_answer: "Ceadeus",
     incorrect_answers: ["Alatreon", "Rathalos", "Lagiacrus"],
   },
@@ -791,7 +778,7 @@ const data = [
     category: "Entertainment: Video Games",
     type: "multiple",
     difficulty: "easy",
-    question: "In which mall does &quot;Dead Rising&quot; take place?",
+    question: "In which mall does 'Dead Rising' take place?",
     correct_answer: "Willamette Parkview Mall",
     incorrect_answers: [
       "Liberty Mall",
@@ -803,8 +790,7 @@ const data = [
     category: "Entertainment: Video Games",
     type: "multiple",
     difficulty: "medium",
-    question:
-      "In what year was Pok&eacute;mon Diamond &amp; Pearl released in Japan?",
+    question: "In what year was Pokemon Diamond & Pearl released in Japan?",
     correct_answer: "2006",
     incorrect_answers: ["2009", "2007", "2008"],
   },
@@ -825,7 +811,7 @@ const data = [
     type: "multiple",
     difficulty: "medium",
     question:
-      "The walls of the Goldenrod City Gym in &quot;Pok&eacute;mon Gold and Silver&quot; are arranged in the shape of which Pok&eacute;mon?",
+      "The walls of the Goldenrod City Gym in 'Pokemon Gold and Silver' are arranged in the shape of which Pokemon?",
     correct_answer: "Clefairy",
     incorrect_answers: ["Bulbasaur", "Pikachu", "Pidgey"],
   },
@@ -851,8 +837,7 @@ const data = [
     category: "Entertainment: Video Games",
     type: "multiple",
     difficulty: "easy",
-    question:
-      "In the &quot;Hitman&quot; series, what is the name of the main character?",
+    question: "In the 'Hitman' series, what is the name of the main character?",
     correct_answer: "Agent 47",
     incorrect_answers: ["Agent 27", "Agent Smith", "Agent 67"],
   },
@@ -860,7 +845,7 @@ const data = [
     category: "Entertainment: Video Games",
     type: "multiple",
     difficulty: "easy",
-    question: "What was the first game in the &quot;Battlefield&quot; series?",
+    question: "What was the first game in the 'Battlefield' series?",
     correct_answer: "Battlefield 1942",
     incorrect_answers: [
       "Battlefield Vietnam",
@@ -872,8 +857,7 @@ const data = [
     category: "Entertainment: Video Games",
     type: "multiple",
     difficulty: "hard",
-    question:
-      "What Pok&eacute;mon&#039;s Base Stat Total does not change when it evolves?",
+    question: "What Pokemon's Base Stat Total does not change when it evolves?",
     correct_answer: "Scyther",
     incorrect_answers: ["Pikachu", "Sneasel", "Larvesta"],
   },
@@ -904,7 +888,7 @@ const data = [
     type: "multiple",
     difficulty: "hard",
     question:
-      "&quot;Strangereal&quot; is a fictitious Earth-like world for which game series?",
+      "'Strangereal' is a fictitious Earth-like world for which game series?",
     correct_answer: "Ace Combat",
     incorrect_answers: ["Jet Set Radio", "Deus Ex", "Crimson Skies"],
   },
@@ -913,7 +897,7 @@ const data = [
     type: "multiple",
     difficulty: "medium",
     question:
-      " Which of these champions from the MOBA &#039;League of Legends&#039; is NOT a Yordle?",
+      " Which of these champions from the MOBA 'League of Legends' is NOT a Yordle?",
     correct_answer: "Annie",
     incorrect_answers: ["Veigar", "Tristana", "Lulu"],
   },
@@ -923,7 +907,7 @@ const data = [
     difficulty: "easy",
     question:
       "Which of the following Zelda games did not feature Ganon as a final boss?",
-    correct_answer: "Majora&#039;s Mask",
+    correct_answer: "Majora's Mask",
     incorrect_answers: [
       "Ocarina of Time",
       "Skyward Sword",

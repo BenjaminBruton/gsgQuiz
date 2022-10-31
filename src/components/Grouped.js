@@ -42,10 +42,19 @@ const Grouped = () => {
           boxes[box].parentNode.getElementsByTagName("label")[0].innerHTML;
         console.log(selection);
         if (selection === question.correct_answer) {
-          document.getElementById("correctOrNo").innerHTML = "CORRECT";
+          let correctAns = document.getElementById("correctOrNo");
+          correctAns.innerHTML = "CORRECT";
+          correctAns.style.color = "#00A800";
+          correctAns.style.fontSize = "3rem";
+          correctAns.style.backgroundColor = "#85FF85";
+          correctAns.style.textAlign = "center";
         } else {
-          document.getElementById("correctOrNo").innerHTML =
-            "THAT IS NOT CORRECT";
+          let wrongAns = document.getElementById("correctOrNo");
+          wrongAns.innerHTML = "INCORRECT";
+          wrongAns.style.color = "#A80E00";
+          wrongAns.style.fontSize = "3rem";
+          wrongAns.style.backgroundColor = "#FF8F85";
+          wrongAns.style.textAlign = "center";
         }
       }
     }
@@ -93,7 +102,9 @@ const Grouped = () => {
       <button className="ui secondary button" onClick={onReload}>
         Next
       </button>
-      <p id="correctOrNo"></p>
+      <br />
+      <br />
+      <p id="correctOrNo">Waiting for response...</p>
     </div>
   );
 };

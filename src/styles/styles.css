@@ -1,0 +1,10 @@
+#divExtra {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(0, -50%);
+    margin: auto;
+    width: 20%;
+    border: 5px solid #1e4c80;
+    padding: 10px;
+}
