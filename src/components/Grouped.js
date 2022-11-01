@@ -3,14 +3,6 @@ import data from "../data/data.js";
 
 const Grouped = () => {
   let question = data[Math.floor(Math.random() * 101)];
-  console.log(
-    String(
-      question.question
-        .replaceAll("&quot;", "")
-        .replaceAll("&eacute;", "")
-        .replaceAll("&#039;", "")
-    )
-  );
 
   let answers = [
     question.correct_answer,
@@ -66,12 +58,7 @@ const Grouped = () => {
 
   return (
     <div className="grouped fields">
-      <label>
-        {question.question
-          .replaceAll("&quot;", "")
-          .replaceAll("&eacute;", "")
-          .replaceAll("&#039;", "")}
-      </label>
+      <label>{question.question}</label>
       <div className="field">
         <div className="ui radio checkbox">
           <input type="radio" name="example2" class="boxes" />
